@@ -5,7 +5,7 @@ Damit das in geordneten Bahnen geschehen kann benötigen wir klare Richtlinien f
 Argumentation für die Freigabe
 
 ## Warum das Mitnehmen von Arbeitsproben, für Designer:innen essentiell ist:
-- *Nachweis der Fähigkeiten*
+- **Nachweis der Fähigkeiten**
 Gutes Design zeichnet sich nicht nur durch das Endprodukt aus. Der Prozess zum Endprodukt ist für die Personen die Designer:innen einschätzen und einstellen sollen entscheidend. Ein Portfolio, das nur das Endprodukt zeigt, reicht oft nicht aus, um die Fähigkeiten und das kreative Denken eines Designers zu demonstrieren. Der Designprozess, einschliesslich der Problemdefinition, Forschung, Iterationen und Nutzerfeedback, zeigt die Tiefe des Denkens und die methodische Herangehensweise der Designer:innen.
 • Differenzierung
 Ein detailliert dargestellter Designprozess hebt die Designer von anderen ab, die möglicherweise nur fertige Produkte präsentieren können. Dies ist besonders wichtig in spezialisierten Bereichen wie UX Design für Fachapplikationen, wo die Prozessdokumentation die Komplexität und Sorgfalt der Arbeit verdeutlicht.
