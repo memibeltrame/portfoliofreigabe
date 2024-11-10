@@ -14,8 +14,9 @@ Designer:innen fühlen sich wertgeschätzt, wenn ihre vollständige Arbeitsweise
 - **Branchenüblicher Standard**
 In der UX Design Branche ist es üblich, den Designprozess zu dokumentieren und zu präsentieren. Dies entspricht den allgemeinen Erwartungen der Branche und zeigt potenziellen Arbeitgebern die Arbeitsmethoden und das Problemlösungsverhalten der Designer:innen. Das Vorzeigen eines Portfolios kann auch bei Ausbildungen eine Auflage sein.
 
+Als Beispiel die Aufnahmebedingungen für den CAS UI/UX Design an der ZHDK
 ![Aufnahmebedingungen für den CAS UI/UX Design an der ZHDK](Voraussetzungen_ZHDK.png "Aufnahmebedingungen für den CAS UI/UX Design an der ZHDK")
-o Aufnahmebedingungen für den CAS UI/UX Design an der ZHDK
+
 
 ## Warum das geordnete Mitnehmen von Arbeitsproben, auch für die FIRMA Vorteile hat:
 - **Kontrollierte Freigabe**
